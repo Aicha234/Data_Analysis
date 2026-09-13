@@ -163,10 +163,9 @@ The analysis was conducted using Python and the following libraries:
 ## Project Structure
 
 ```text
-customer-data-analysis/
+Data-Analysis/
 │
-├── donnees_clients.csv
-├── customer_analysis.ipynb
+├── Untitled-checkpoint.ipynb
 └── README.md
 ```
 
